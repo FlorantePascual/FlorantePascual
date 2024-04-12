@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @FlorantePascual
-- 👀 I’m interested in Web App Development
-- 🌱 I’m currently learning better ways to build systems on Angular and NodeJS
-- 💞️ My talents are best utilized on eCommerce, digital, vision care and health care systems
-- 📫 You can reach me at www.florantepascual.com
+<h1 align="center">Hello👋 fellow devs!</h1>
+<div align="center">
+    <p>I'm <b>Florante</b>, a ✨software engineer✨ based in Canada <img src="./CA.svg" height="12"></p>
+    <h3>TOOLS OF THE TRADE</h3>
+    <p>JavaScript • TypeScript • Python • HTML • CSS
+    <br>Angular • Redux • NodeJS • NestJS • TailWind • Material
+    <br>Firebase • FireStore • SQL RDBMS • NoSQL • Blob Storage</p>
+    <p>GCP • Azure • OpenAI • Twilio • Office365 • Zapier
+    <br>Figma • Jira • Confluence • Bitbucket • Github</p>
+    <p>Canva • PhotoShop • GIMP • Blender • OBS</p>
+    <hr>
+    <p>Reach out on my website or chat with my bot assistant at</p>
+    <p><a href="https://www.florantepascual.com/" target="_blank">www.florantepascual.com/</a></p>
+    <p>Let's build something amazing together!</p>
+</div>
 
 <!---
 FlorantePascual/FlorantePascual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
