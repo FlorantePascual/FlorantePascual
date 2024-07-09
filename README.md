@@ -14,7 +14,7 @@
     <p>Reach out on my website or chat with my bot assistant at</p>
     <p><a href="https://www.florantepascual.com/" target="_blank">www.florantepascual.com/</a></p>
     <p><a href="https://angular.florantepascual.com/" target="_blank">Angular Showcase</a></p>
-    <p><a href="https://next.florantepascual.com/" target="_blank">React/NodeJS AI Showcase</a></p>
+    <p><a href="https://next.florantepascual.com/" target="_blank">React/NodeJS AI Showcase</a> | <a href="https://www.youtube.com/watch?v=0YXfoj__Vwg" target="_blank">Intro Video</a></p>
     <p>Let's build something amazing together!</p>
 </div>
 
